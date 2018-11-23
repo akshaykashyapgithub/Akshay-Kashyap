@@ -1,0 +1,5 @@
+Static Login
+Of Single User
+Forgot Password
+Get Password Using Security Quetions
+Small Code Run Faster
