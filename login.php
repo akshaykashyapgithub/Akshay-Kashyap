@@ -10,3 +10,7 @@ else
   $this->load->view('Login',array('msg'=>'Invalid User id Or password'));
 }
 
+<html>
+<body>
+<marquee> Login Here </marquee>
+</body>
